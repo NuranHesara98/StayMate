@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/stayMate/static/css/main.f59a4f71.css",
+    "main.js": "/stayMate/static/js/main.4b231a36.js",
+    "static/js/488.99d90c1e.chunk.js": "/stayMate/static/js/488.99d90c1e.chunk.js",
+    "static/media/house.jpg": "/stayMate/static/media/house.bfafffe2f59daa2e5d9f.jpg",
+    "static/media/logo.jpg": "/stayMate/static/media/logo.2689ace5d48fd255223a.jpg",
+    "index.html": "/stayMate/index.html",
+    "main.f59a4f71.css.map": "/stayMate/static/css/main.f59a4f71.css.map",
+    "main.4b231a36.js.map": "/stayMate/static/js/main.4b231a36.js.map",
+    "488.99d90c1e.chunk.js.map": "/stayMate/static/js/488.99d90c1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f59a4f71.css",
+    "static/js/main.4b231a36.js"
+  ]
+}
